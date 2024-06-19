@@ -1,0 +1,1 @@
+ C:\\Users\\user\\StudioProjects\\helloo\\.dart_tool\\flutter_build\\112542daa7c320d97cf352ddb1460347\\native_assets.yaml: 
